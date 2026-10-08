@@ -6,7 +6,7 @@ Tệp này được Claude tự đọc ở đầu mỗi phiên làm việc. Luô
 
 - **Tên:** Lê Thị Kim Ngân — gọi là **chị Ngân** / **Kim Ngân**
 - **Lĩnh vực công ty:** Y tế
-- **Mảng phụ trách:** Quản lý chất lượng
+- **Mảng phụ trách:** Quản lý chất lượng **xét nghiệm** (chị tự xác nhận ngày 08/10/2026)
 - **Tỉnh/thành:** Thành phố Hồ Chí Minh
 
 Các trường khác trong hồ sơ (nghề, công ty, quy mô, chi tiết công việc, việc hằng ngày, việc muốn bớt, mục tiêu 12 tháng) đang để trống — không tự suy đoán. Khi cần, hỏi trực tiếp rồi bổ sung vào đây.
